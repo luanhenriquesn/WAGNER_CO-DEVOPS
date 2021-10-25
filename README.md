@@ -35,7 +35,6 @@
 
 
 **Benefícios Alcançados**
-    
     Com a construção deste pipeline, conseguimos construir uma esteira devops open source, que irá executar tarefas repetitivas que tomariam
     tempo do desenvolvedor, liberando esse precioso tempo para que o foco seja onde realmente importa.
 
