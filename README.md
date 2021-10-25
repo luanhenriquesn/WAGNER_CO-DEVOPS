@@ -14,6 +14,9 @@
 
 **Turma:** 2TDSA
 
+##Desenho do pipeline e um detalhamento de cada etapa criada, detalhando os benefícios a serem alcançados nessa fase
+![ARQUITETURA_JENKINS](https://user-images.githubusercontent.com/63483424/138733242-4c7224ee-8536-45af-876f-25fb107ef3f5.jpg)
+
 ## Link de vídeo demonstração
 
 [Link para o video youtube](https://www.youtube.com/watch?v=asU3WQ_vJ6s)
