@@ -17,16 +17,16 @@
 ## Desenho do pipeline e um detalhamento de cada etapa criada, detalhando os benefícios a serem alcançados nessa fase
 ![ARQUITETURA_JENKINS](https://user-images.githubusercontent.com/63483424/138733242-4c7224ee-8536-45af-876f-25fb107ef3f5.jpg)
 
-**Commit
+**Commit**
     Nesta etapa, o usuário está alterando o código fonte da aplicação no repositório GitHub.
     
-**Check Out
+**Check Out**
     Nesta etapa, o Jenkins está fazendo o check out do código fonte do repositório GitHub.
 
-**Build
+**Build**
     Nesta etapa, o Jenkins está utilizando o Maven para fazer o build da aplicação, gerando o arquivo .WAR.
     
-**Deploy
+**Deploy**
     Nesta etapa, caso o resnposável pela aprovação aprove o deploy, o Jenkins irá usar o TomCat para fazer o deploy do arquivo .WAR.
 
 
